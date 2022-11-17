@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RaadKamal
 - 👀 I’m interested in Full-Stack developing
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects on data science and especially projects associated with front end developing.
+- 📫 How to reach me kamalmr@myumanitoba.ca
 
 <!---
 RaadKamal/RaadKamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
