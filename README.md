@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaadKamal
-- 👀 I’m interested in Front End developing
+- 👀 I’m interested in Full-Stack developing
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
