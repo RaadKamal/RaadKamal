@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaadKamal
 - 👀 I’m interested in Full-Stack developing
-- 🌱 I’m currently doing a book publication project involving many languages : Node.js Espresso MongoDB and React
+- 🌱 I’m currently doing a book publication project involving many languages : Node.js Express MongoDB and React
 - 💞️ I’m looking to collaborate on projects on data science and especially projects associated with front end developing.
 - 📫 How to reach me: kamalmr@myumanitoba.ca
 
