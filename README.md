@@ -1,8 +1,8 @@
-- #### 👋 Hi, I’m @RaadKamal
-- #### 👀 I’m interested in Full-Stack developing
-- #### 🌱 I’m currently doing a Machine Learning project health science related
-- #### 💞️ I’m looking to collaborate on projects on data science and especially projects associated with front end developing.
-- #### 📫 How to reach me: kamalmr@myumanitoba.ca
+- ** 👋 Hi, I’m @RaadKamal **
+- ** 👀 I’m interested in Full-Stack developing **
+- ** 🌱 I’m currently doing a Machine Learning project health science related **
+- ** 💞️ I’m looking to collaborate on projects on data science and especially projects associated with front end developing. **
+- ** 📫 How to reach me: kamalmr@myumanitoba.ca **
 
 ### Let's Connect:
 
