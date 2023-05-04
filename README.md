@@ -6,7 +6,7 @@
 
 ### Let's get connected with each other:
 
-<!-- PROJECT SHIELDS -->
+<!-- Intro SHIELDS -->
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![facebook][facebook-shield]][facebook-url]
