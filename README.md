@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on projects on data science and especially projects associated with front end developing.
 - 📫 How to reach me: kamalmr@myumanitoba.ca
 
+<!-- PROJECT SHIELDS -->
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!---
