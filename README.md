@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/raadkamal99/
-[facebook-shield]: https://img.shields.io/badge/-facebook-blue.svg?style=for-the-badge&logo=facebook&colorB=555
+[facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [facebook-url]: https://www.facebook.com/mostafaraad.kamal.1/
