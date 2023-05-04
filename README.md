@@ -8,6 +8,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![facebook][facebook-shield]][facebook-url]
+[![twitter][twitter-shield]][twitter-url]
 
 
 <!---
@@ -20,3 +21,5 @@ You can click the Preview link to take a look at your changes.
 [linkedin-url]: https://www.linkedin.com/in/raadkamal99/
 [facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [facebook-url]: https://www.facebook.com/mostafaraad.kamal.1/
+[twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-url]: 
