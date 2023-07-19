@@ -1,8 +1,8 @@
 ## 👋 Hi there !
 
  - **👀 I’m interested in Full-Stack developing**
- - **🌱 I’m currently doing a Machine Learning project on ground-based air surveillance radars**
- - **💞️ I’m always looking to collaborate on projects in data science and especially projects associated with front end developing.**
+ - **🌱 I’m currently doing a Machine Learning project on ground-based air surveillance radars connectivity**
+ - **💞️ I’m always looking to collaborate on data science projects, especially those associated with front-end development.**
  - **📫 How to reach me: kamalmr@myumanitoba.ca**
 
 ### Let's get connected with each other:
