@@ -1,7 +1,7 @@
 ## 👋 Hi there !
 
  - **👀 I’m interested in Full-Stack developing**
- - **🌱 I’m currently doing a Machine Learning project
+ - **🌱 I’m currently doing a Machine Learning project**
  - **💞️ I’m always looking to collaborate on data science projects, especially those associated with front-end development.**
  - **📫 How to reach me: kamalmr@myumanitoba.ca**
 
