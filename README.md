@@ -1,7 +1,7 @@
 ## 👋 Hi there !
 
 - **👀 I’m interested in full-stack development.**
-- **🌱 I’m currently taking a course in this field.**
+- **🌱 I’m currently doing a course in this field.**
 - **💞 I’m always looking to collaborate on projects related to computer science, but please note that I’m not interested in anything related to data science, such as blockchain and one other aspect Machine Learning.**
 - **📫 You can reach me at: riyadhkamalx@gmail.com**
 
