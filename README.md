@@ -5,17 +5,7 @@
 - **💞 I’m always looking to collaborate on projects related to computer science, but please note that I’m not interested in anything related to data science, such as blockchain and one other aspect of Machine Learning.**
 - **📫 You can reach me at: riyadhkamalx@gmail.com**
 
- Database: SQL, JSON, MongoDB.
- 
- Backend Development: Python, Express and NodeJS.
- 
- Cloud Platform: Google Cloud and Firebase.
- 
- Miscellaneous: Detailed in my resume.
- 
- Frontend Development: React.js, Vue.js, JavaScript, HTML and CSS.
   
-
 
  
 ### Let's get connected with each other : 
