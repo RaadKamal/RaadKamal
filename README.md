@@ -31,5 +31,5 @@ You can click the Preview link to take a look at your changes.
 [facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [facebook-url]: https://www.facebook.com/mostafaraad.kamal.1/
 [x-shield]: https://img.shields.io/badge/twitter-A9A9A9?style=for-the-badge&logo=X&logoColor=white
-[x-url]: https://x.com/will_be_updated
+[x-url]: https://x.com/KamalRaad52013
 
