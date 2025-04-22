@@ -3,7 +3,7 @@
 - **👀 I’m interested in full-stack development.**
 - **🌱 I’m currently taking a course in this field.**
 - **💞 I’m always looking to collaborate on projects related to computer science, but please note that I’m not interested in anything related to data science, such as blockchain and one other aspect is Machine Learning, like all sorts of learning.**
-- **📫 You can reach me at: riyadhkamalx@gmail.com**
+- **📫 You can reach me at: c0cumknbb@mozmail.com (Masked)**
 
   
 
