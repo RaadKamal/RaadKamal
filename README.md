@@ -1,11 +1,11 @@
 
 
 
-[<img align="left" alt="codeSTACKr.com" width="52px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="42px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [website]: https://raadkamal.github.io 
 
-##👋 Hi there !  
+## 👋 Hi there !  
 
 - **👀 I’m interested in full-stack development.**
 - **🌱 I’m currently taking a course in this field and learning docker side by side.**
