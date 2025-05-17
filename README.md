@@ -12,13 +12,14 @@
 - **📫 You can reach me at: c0cumknbb@mozmail.com (Masked)**
 
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
   
 
  
 ### Let's get connected with each other : 
 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 
 <!-- Intro SHIELDS -->
