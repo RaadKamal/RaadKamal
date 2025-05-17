@@ -1,7 +1,8 @@
 
 
 
-[<img width="80" src="https://img.icons8.com/ios-filled/100/40C057/america.png" alt="america" />][website]
+[<img align="left" width="80px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"  />][website]
+
 ## Hi there !  
 
 
