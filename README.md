@@ -1,12 +1,7 @@
 
-<style>
-  .green-icon {
-    filter: hue-rotate(120deg) saturate(100%); /* Adjust hue-rotate for the desired green */
-  }
-</style>
 
 
-[<img align="left" alt="codeSTACKr.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" class="green-icon"/>][website]
+[<img align="left" alt="codeSTACKr.com" width="52px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [website]: https://raadkamal.github.io 
 
