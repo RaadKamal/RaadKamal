@@ -1,7 +1,7 @@
 
 
 
-[<img align="left" alt="codeSTACKr.com" width="52px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<<img width="100" height="100" src="https://img.icons8.com/ios-filled/100/40C057/america.png" alt="america"/> />][website]
 ## Hi there !  
 
 
