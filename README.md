@@ -1,7 +1,7 @@
 
 
 
-
+[<img align="left" alt="codeSTACKr.com" width="92px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 ## Hi there !  
 
 
@@ -12,7 +12,7 @@
 - **📫 You can reach me at: c0cumknbb@mozmail.com (Masked)**
 
 
-[<img align="left" alt="codeSTACKr.com" width="92px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 
   
 
