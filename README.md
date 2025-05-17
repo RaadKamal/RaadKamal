@@ -1,7 +1,7 @@
 
 
 
-[<img align="left" alt="codeSTACKr.com" width="92px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="52px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 ## Hi there !  
 
 
