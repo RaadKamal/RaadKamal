@@ -1,9 +1,16 @@
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<style>
+  .green-icon {
+    filter: hue-rotate(120deg) saturate(100%); /* Adjust hue-rotate for the desired green */
+  }
+</style>
 
-[website]: https://raadkamal.github.io
 
-## 👋 Hi there !  ## 
+[<img align="left" alt="codeSTACKr.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" class="green-icon"/>][website]
+
+[website]: https://raadkamal.github.io 
+
+## 👋 Hi there !  
 
 - **👀 I’m interested in full-stack development.**
 - **🌱 I’m currently taking a course in this field and learning docker side by side.**
