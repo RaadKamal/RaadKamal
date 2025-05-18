@@ -15,7 +15,7 @@
 
 
   
-[<img align="left" width="85px" height="85px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"/>][website]
+[<img align="left" width="81px" height="81px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"/>][website]
  
 ### Let's get connected with each other : 
 
