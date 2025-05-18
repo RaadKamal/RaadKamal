@@ -24,7 +24,7 @@
 
 <!-- Intro SHIELDS -->
 
-[<img align="left" width="50px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"  />][website]
+[<img align="left" width="40px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"  />][website]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![facebook][facebook-shield]][facebook-url]
 [![x][x-shield]][x-url]
