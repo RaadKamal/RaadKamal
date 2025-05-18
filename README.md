@@ -2,7 +2,7 @@
 
 
 
-## Hi there !   [<img align="right" width="50px" height="40px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"  />][website]
+## Hi there !   [<img align="centre" width="50px" height="40px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"  />][website]
 
 
 
