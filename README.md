@@ -1,6 +1,6 @@
 
 
- [<img align="left" width="55px" height="40px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"    />][website]
+ [<img align="left" width="55px" height="55px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"    />][website]
 
 ## Hi there !  
 
