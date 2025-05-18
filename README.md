@@ -2,7 +2,7 @@
 
 
 
-## Hi there !  
+## Hi there !   [<img align="right" width="50px" height="40px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"  />][website]
 
 
 
@@ -24,7 +24,7 @@
 
 <!-- Intro SHIELDS -->
 
-[<img align="left" width="40px" height="30px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"  />][website]
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![facebook][facebook-shield]][facebook-url]
 [![x][x-shield]][x-url]
