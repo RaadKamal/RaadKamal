@@ -26,9 +26,9 @@
 <!-- Intro SHIELDS -->
 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!--[![LinkedIn][linkedin-shield]][linkedin-url]
 [![facebook][facebook-shield]][facebook-url]
-[![x][x-shield]][x-url]
+[![x][x-shield]][x-url]-->
 
 
 
