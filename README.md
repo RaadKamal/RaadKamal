@@ -16,7 +16,7 @@
 
   
  ## Personal Website:
- [<img align="left" width="80px" height="80px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"/>][website]
+ [<img align="left" width="73px" height="73px" src="https://img.icons8.com/ios-filled/100/40C057/america.png"/>][website]
  
 
 
