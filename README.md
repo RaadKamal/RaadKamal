@@ -6,7 +6,7 @@
 
 
 
-- **👀 I’m interested in becoming a Skilled Programmer**
+- **👀 I’m interested in becoming a Full Stack Developer**
 - **🌱 I’m currently taking a course in this field and learning docker side by side.**
 - **💞 I’m always looking to collaborate on projects related to computer science, but please note that I’m not interested in  data science, such as blockchain and one other aspect is Machine Learning, like all sorts of learning.**
 - **📫 You can reach me at: c0cumknbb@mozmail.com (Masked)**
