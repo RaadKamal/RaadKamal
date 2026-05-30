@@ -1,4 +1,3 @@
-I have been working on an algorithm problem for over two weeks, and I am not updating anything else.
 
   
  ## Personal Website:
